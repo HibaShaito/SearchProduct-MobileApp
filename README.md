@@ -1,20 +1,19 @@
-<<<<<<< HEAD
-# pr1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # SearchProduct-MobileApp
->>>>>>> 48eff0020f9b968099047f3906b409c1b71cc7c8
+
+A mobile app built with Flutter to search and browse products. Users can search for items, view product details, and interact with a simple and clean interface.
+
+## Features
+
+- Search functionality for products
+- Product detail display
+- Clean and responsive UI using Flutter widgets
+- Designed for mobile devices (Android/iOS)
+
+## Tech Stack
+
+- Flutter
+- Dart
+
+## Notes
+
+- This is a student project and may not include full functionality.
