@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pr1
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# SearchProduct-MobileApp
+>>>>>>> 48eff0020f9b968099047f3906b409c1b71cc7c8
